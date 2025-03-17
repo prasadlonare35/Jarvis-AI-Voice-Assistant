@@ -33,20 +33,25 @@ A voice-activated personal assistant built with Python. Jarvis can open websites
    cd your-repo-name
 
 2. **Create .env file:**
-GEMINI_API_KEY=your_actual_gemini_api_key
-NEWS_API_KEY=your_actual_newsapi_key
+   ```bash
+   GEMINI_API_KEY=your_actual_gemini_api_key
+   NEWS_API_KEY=your_actual_newsapi_key
 
 4. **Install dependencies:**
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 4. **Run Jarvis:**
-python main.py
+   ```bash
+   python main.py
 
-⚠️ Notes
-.env is excluded via .gitignore.
-Make sure your microphone is connected for voice input.
-✨ Future Improvements
-Add reminder and alarm features
-Add more commands (weather updates, calendar integration, etc.)
-Implement NLP for better context understanding
-Made with ❤️ by Prasad Lonare
+## ⚠️ Notes
+1. .env is excluded via .gitignore.
+2. Make sure your microphone is connected for voice input.
+   
+## ✨ Future Improvements
+1. Add reminder and alarm features
+2. Add more commands (weather updates, calendar integration, etc.)
+3. Implement NLP for better context understanding
+
+**Made with ❤️ by Prasad Lonare**
