@@ -29,8 +29,8 @@ A voice-activated personal assistant built with Python. Jarvis can open websites
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/prasadlonare35/Jarvis-AI-Voice-Assistant.git
+   cd Jarvis-AI-Voice-Assistant
 
 2. **Create .env file:**
    ```bash
