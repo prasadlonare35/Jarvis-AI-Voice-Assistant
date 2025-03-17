@@ -46,7 +46,6 @@ def speak(text):
 
 def aiProcess(command):
     genai.configure(api_key=gemini_api_key)
-    # genai.configure(api_key="AIzaSyDSh4Ebf6vobOtV9X-EsW3-2heEEoqs2Vc")
     chat = genai.GenerativeModel("gemini-1.5-pro").start_chat(history=[])
 
     try:
