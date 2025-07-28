@@ -22,7 +22,12 @@ A voice-activated personal assistant built with Python. Jarvis can open websites
 
 ## 📂 Project Structure
 
-├── jarvis.py ├── musicLibrary.py ├── .env.example ├── requirements.txt ├── README.md └── .gitignore
+      ├── jarvis.py 
+      ├── musicLibrary.py 
+      ├── .env.example 
+      ├── requirements.txt 
+      ├── README.md 
+      └── .gitignore
 
 
 ## ⚙️ Setup Instructions
